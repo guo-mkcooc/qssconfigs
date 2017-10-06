@@ -22,5 +22,7 @@ CONFIG_KERNEL_SKB_DEBUG=y
 CONFIG_KERNEL_SLUB_DEBUG=y
 CONFIG_KERNEL_TIMER_STATS=y
 CONFIG_PACKAGE_MAC80211_MESSAGE_TRACING=y
+CONFIG_PACKAGE_qca-wifi-hk-fw-hw1-10.4-asic=m
+CONFIG_PACKAGE_qca-wifi-hk-fw-hw1-debug-asic=y
 CONFIG_STRIP_ARGS="--strip-unneeded --remove-section=.comment --remove-section=.note"
 CONFIG_USE_STRIP=y
