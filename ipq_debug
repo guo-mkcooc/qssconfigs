@@ -25,3 +25,4 @@ CONFIG_KERNEL_TIMER_STATS=y
 CONFIG_PACKAGE_MAC80211_MESSAGE_TRACING=y
 CONFIG_STRIP_ARGS="--strip-unneeded --remove-section=.comment --remove-section=.note"
 CONFIG_USE_STRIP=y
+CONFIG_WIFI_MEM_DEBUG=y
