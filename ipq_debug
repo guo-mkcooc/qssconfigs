@@ -28,3 +28,4 @@ CONFIG_STRIP_ARGS="--strip-unneeded --remove-section=.comment --remove-section=.
 CONFIG_USE_STRIP=y
 CONFIG_WIFI_MEM_DEBUG=y
 CONFIG_WIFI_LOG_UTILS=y
+CONFIG_PACKAGE_kmod-qca-wifi-minimal-profile=m
